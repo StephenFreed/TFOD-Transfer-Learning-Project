@@ -8,6 +8,7 @@
 
 <br />
 
+## Steps
 #### 1) Image Collection
 #### 2) Train and Evaluate Model
 #### 3) Test Object Detection Model On Image or Live Webcam
@@ -17,14 +18,14 @@
 
 <br />
 
-#### This project was based off Nicholas Ronotte's YouTube video here:
+#### This project was based off Nicholas Ronotte's YouTube video here: <br />  (Great YouTube channel for machine learning)
 https://www.youtube.com/watch?v=yqkISICHH-U
 #### Repository here:
 https://github.com/nicknochnack/TFODCourse
 
 <br />
 
-#### I highly suggest his YouTube channel. I structured each notebook out so I could follow the notebooks to train and performance tune a model. I plan to use this repository as a base to build different implementations of object detection models.
+#### I structured each notebook out so I could follow the notebooks to train and performance tune a model. I added comments to all important steps to fully explain what the code is doing. If you clone the repository, you should be able to go through the entire process with just the notebooks. I plan to use this repository as a base to build different implementations of object detection models.
 
 <br />
 
