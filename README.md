@@ -25,7 +25,7 @@ https://github.com/nicknochnack/TFODCourse
 
 <br />
 
-#### I structured each notebook out so I could follow the notebooks to train and performance tune a model. I added comments to all important steps to fully explain what the code is doing. If you clone the repository, you should be able to go through the entire process with just the notebooks. I plan to use this repository as a base to build different implementations of object detection models.
+#### Each notebook is structured to train, and performance tune an object detection model from start to finish. There are comments to all important steps that will fully explain what the code is doing. If you clone the repository, you should be able to go through the entire process with just the notebooks. I plan to use this repository as a base to build different implementations of object detection models. 
 
 <br />
 
