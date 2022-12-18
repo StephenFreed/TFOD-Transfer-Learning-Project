@@ -1,6 +1,6 @@
 # Tensorflow Object Detection Transfer Learning Project
 
-![Object Detection](./images/tfod-pic.png)
+![Object Detection](./images/tfod-results.png)
 
 <br />
 
